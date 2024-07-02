@@ -4,3 +4,4 @@ locals.tf
 *.terraform.*
 terraform.tfstate
 terraform.tfstate.backup
+plan.out
